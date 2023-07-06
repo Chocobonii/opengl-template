@@ -1,0 +1,4 @@
+int BON_SCREEN_W = 640;
+int BON_SCREEN_H = 480;
+
+ 
